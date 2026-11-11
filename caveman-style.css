@@ -1,0 +1,27 @@
+body {
+    font-size: 210%;
+    background-color: rgb(243, 243, 243);
+}
+
+h1 {
+    width: 350px;
+}
+
+h1, img {
+    margin: 20px auto;
+}
+
+img {
+    display: block;
+    border: 3px solid black;
+}
+
+#evo {
+    width: 550px;
+    height: 375px;
+}
+
+#mammoth {
+    width: 460px;
+    height: 280px;
+}
