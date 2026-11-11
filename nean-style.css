@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(243, 243, 243);
+    font-size: 115%;
+}
+
+h1 {
+    width: 368px;
+    margin: 0 auto;
+}
+
+hr {
+    width: 500px;
+    margin: 23px auto;
+}
+
+table {
+    width: 775px;
+    height: 600px;
+
+    margin: 0 auto;
+}
+
+td {
+    text-align: justify;
+    font-size: 120%;
+}
+
+#skull {
+    width: 400px;
+    height: 480px;
+}
+
+#arrow {
+    width: 80px;
+    height: 75px;
+}
